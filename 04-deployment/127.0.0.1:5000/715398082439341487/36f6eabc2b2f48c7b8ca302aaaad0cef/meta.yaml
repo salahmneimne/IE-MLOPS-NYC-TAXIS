@@ -1,0 +1,14 @@
+artifact_uri: /Users/salahmneimne/Desktop/MBD2025/TERM 2/MLOPS /IE-MLOPS-NYC-TAXIS/04-deployment/127.0.0.1:5000/715398082439341487/36f6eabc2b2f48c7b8ca302aaaad0cef/artifacts
+end_time: 1772626689914
+entry_point_name: ''
+experiment_id: '715398082439341487'
+lifecycle_stage: active
+run_id: 36f6eabc2b2f48c7b8ca302aaaad0cef
+run_name: fun-trout-319
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772626683733
+status: 3
+tags: []
+user_id: salahmneimne

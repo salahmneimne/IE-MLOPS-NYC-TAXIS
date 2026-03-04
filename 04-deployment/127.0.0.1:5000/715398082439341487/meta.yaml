@@ -1,0 +1,7 @@
+artifact_location: /Users/salahmneimne/Desktop/MBD2025/TERM 2/MLOPS /IE-MLOPS-NYC-TAXIS/04-deployment/127.0.0.1:5000/715398082439341487
+creation_time: 1772626683258
+experiment_id: '715398082439341487'
+last_update_time: 1772626683258
+lifecycle_stage: active
+name: nyc-taxi-duration
+workspace: default
